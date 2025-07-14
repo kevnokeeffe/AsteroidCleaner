@@ -56,5 +56,5 @@ Together, they help keep your save stable and performant over long playthroughs.
 
 ## 🔗 Links
 
-- 📦 [Download Latest Release](https://github.com/kevnokeeffe/AsteroidCometCleaner/releases)
+- 📦 [Download Latest Release](https://github.com/kevnokeeffe/AsteroidCleaner/releases/tag/v1.0.0)
 
