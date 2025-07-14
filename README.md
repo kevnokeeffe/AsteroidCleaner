@@ -28,6 +28,18 @@ Config file support can be added in future versions.
 - 🔄 Compatible with other object-spawning mods
 - ⚠️ Game must be run with Kopernicus installed for this mod to function properly
 
+## 🧩 Works Well With
+
+**[AsteroidSpawnLimiter](https://github.com/kevnokeeffe/AsteroidSpawnLimiter)** –  
+Use this mod alongside *AsteroidCleaner* to fully control space object clutter.  
+While *AsteroidSpawnLimiter* controls how often new asteroids and comets are spawned, *AsteroidCleaner* ensures that excess untracked objects are regularly cleaned up.  
+Together, they help keep your save stable and performant over long playthroughs.
+
+## 🔧 Installation
+
+1. Download the latest release from the [GitHub Releases page](https://github.com/kevnokeeffe/AsteroidSpawnLimiter/releases/tag/v1.0.0).
+2. Extract the ZIP file.
+3. Copy the `GameData/AsteroidSpawnLimiter/` folder into your KSP `GameData/` directory.
 
 ## 🚀 Compatibility
 
