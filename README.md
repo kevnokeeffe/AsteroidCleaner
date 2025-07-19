@@ -11,6 +11,8 @@
 - Removes untracked **asteroids** beyond a set number (default: 3)
 - Removes untracked **comets** beyond a set number (default: 2)
 - Safe for use in all scenes (including tracking station)
+- Runs a check every 10 minutes
+- Tracked Asteroids & Comets are not limited and will not be included
 - Skips tracked objects to preserve player discoveries
 
 ## ⚙️ Configuration
